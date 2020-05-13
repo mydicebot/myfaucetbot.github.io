@@ -1,5 +1,5 @@
 ![](screenshot/fbot-logo-256.png)
-# ★MyFaucetBot★ - Ultimate Bitcoin Faucet Bot.
+# ★MyFaucetBot★ - Ultimate Bitcoin Faucet Bot
 
 [![Github All Releases](https://img.shields.io/github/downloads/mydicebot/myfaucetbot.github.io/total.svg)](https://github.com/mydicebot/myfaucetbot.github.io/releases)
 [![GitHub release](https://img.shields.io/github/release/mydicebot/myfaucetbot.github.io/all.svg)](https://github.com/mydicebot/myfaucetbot.github.io/releases)
